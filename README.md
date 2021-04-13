@@ -7,6 +7,6 @@ OK.
 <<<<<<< HEAD
 4
 =======
-
+6
 Teilnehmer W fügt auch was hinzu - TEST.
 >>>>>>> ca8f6cc9dc303519892b7c9099a5502f72038c4e
